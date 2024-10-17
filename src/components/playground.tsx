@@ -8,7 +8,7 @@ import { Input } from './ui/input'
 
 const PlayGround = () => {
   const [message, setMessage] = useState<string>(
-    'this is definitely not a swear word'
+    'isso definitivamente não é uma palavra ofensiva.'
   )
 
   const { data, mutate, isPending, error } = useMutation({
