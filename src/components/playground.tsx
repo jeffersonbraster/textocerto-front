@@ -90,7 +90,7 @@ const PlayGround = () => {
       </div>
 
       <div className='text-sm flex gap-2 items-center h-fit'>
-        powered by um dev da GLOBE
+        Feito com ❤️ por Jefferson Brandão
       </div>
     </div>
   )
